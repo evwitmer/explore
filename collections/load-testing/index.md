@@ -17,6 +17,7 @@ items:
  - hatoo/oha
  - lighttpd/weighttp
  - grafana/k6
+ - kubeshop/testkube
  - tarekziade/molotov
  - locustio/locust
  - mcollina/autocannon
