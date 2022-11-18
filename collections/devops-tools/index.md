@@ -34,6 +34,8 @@ items:
  - opendiffy/diffy
  - harness/drone
  - hashicorp/vault
+ - kubeshop/testkube
+ - kubeshop/monokle
  - NagiosEnterprises/nagioscore
  - zabbix/zabbix
  
